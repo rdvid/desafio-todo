@@ -1,0 +1,11 @@
+@import url("node_modules/bootstrap/dist/css/bootstrap.css");
+
+html{
+    min-height: 100vh;
+    height: 100vh !important;
+    background-color: aqua;
+}
+
+.done{
+    text-decoration: line-through;
+}
